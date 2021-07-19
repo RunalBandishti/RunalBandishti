@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "Header")](https://runalbandishti.me/)
-
 ### Hi there 👋
+
+[![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "Header")](https://runalbandishti.me/)
 
 ## &#x1f4c8; GitHub Stats
 
