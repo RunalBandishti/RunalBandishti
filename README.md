@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on :
-        1.Website Using Only HTML & CSS(Focusing mainly on using all what CSS provides to us).
+        1.Working on Angular.
         2.React.js & Material-UI Project.        
 
 [![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "Header")](https://runalbandishti.me/)
