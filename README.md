@@ -1,7 +1,7 @@
 ## Hi there 👋👋👋👋
 
 ### 🔭 I’m currently working on :
-        1.Working & Learning WordPress.
+        1.Learning & Working on WordPress.
         2.React.js & Material-UI Project.        
 
 [![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "Header")](https://runalbandishti.me/)
