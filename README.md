@@ -1,4 +1,4 @@
-## Hi there 👋👋👋�
+## Hi there 👋👋👋
 
 ### 🔭 I’m currently working on :
         1.Learning & Working on WordPress.
