@@ -2,7 +2,7 @@
 
       
 
-[![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "Header")](https://runalbandishti.me/)
+[![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "runalbandishti")](http://runalbandishti.mywork.works/)
 
 ## &#x1f4c8; GitHub Stats
 
