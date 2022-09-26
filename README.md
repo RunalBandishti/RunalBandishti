@@ -11,8 +11,8 @@
 <diV>
 
   <div align="center">
-    <a href="#"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=RunalBandishti&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-    <a href="#"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RunalBandishti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=RunalBandishti&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="150"/></a>
+    <a href="#"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RunalBandishti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="150"/></a>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=RunalBandishti&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
