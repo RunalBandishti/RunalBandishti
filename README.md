@@ -1,19 +1,36 @@
 ## Hi there 🎧
 
-      
+<!--*******************-->
 
 [![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "runalbandishti")](http://runalbandishti.mywork.works/)
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="http://runalbandishti.mywork.works/"><img height="127px" src="https://github-readme-stats.vercel.app/api?username=RunalBandishti&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="127px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RunalBandishti&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<!--*******************-->
 
+<diV>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RunalBandishti&theme=dark)](http://runalbandishti.mywork.works/)
+  <div align="center">
+    <a href="#"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=RunalBandishti&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RunalBandishti&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=RunalBandishti&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+
+  <hr/>
+
+  <div>
+    <a href="#"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RunalBandishti&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+
+<!--*******************-->
 
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
+<!--*******************-->
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -21,6 +38,17 @@
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+
+<!--*******************-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RunalBandishti&theme=dark)](http://runalbandishti.mywork.works/)
+
+<!--*******************-->
+
+
+
+
+
 
 
 
