@@ -41,7 +41,7 @@
 
 <!--*******************-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RunalBandishti&theme=github-dark&hide_border=true)](http://runalbandishti.mywork.works/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RunalBandishti&theme=github-dark&hide_border=false)](http://runalbandishti.mywork.works/)
 
 <!--*******************-->
 
