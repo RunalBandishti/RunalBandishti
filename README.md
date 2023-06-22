@@ -21,7 +21,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RunalBandishti&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+    
   <div> 
 </div>
 
@@ -32,16 +32,10 @@
 
 <!--*******************-->
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
-
-<!--*******************-->
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RunalBandishti&theme=github-dark&hide_border=false)](http://runalbandishti.mywork.works/)
+</div>
 
 <!--*******************-->
 
