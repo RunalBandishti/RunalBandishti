@@ -2,7 +2,7 @@
 
 <!--*******************-->
 
-[![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "runalbandishti")](http://runalbandishti.mywork.works/)
+[![Header](https://raw.githubusercontent.com/RunalBandishti/RunalBandishti/master/demo.png "runalbandishti")](http://runalbandishti.tech/)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RunalBandishti&theme=github-dark&hide_border=false)](http://runalbandishti.mywork.works/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RunalBandishti&theme=github-dark&hide_border=false)](http://runalbandishti.tech/)
 </div>
 
 <!--*******************-->
