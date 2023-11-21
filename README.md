@@ -25,17 +25,17 @@
   <div> 
 </div>
 
-<!--*******************-->
+<!--*******************
 
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>-->
 
-<!--*******************-->
-
+<!--*******************
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RunalBandishti&theme=github-dark&hide_border=false)](http://runalbandishti.tech/)
-</div>
+</div>-->
+
 
 <!--*******************-->
 
